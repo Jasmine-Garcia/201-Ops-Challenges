@@ -7,6 +7,13 @@
 
 # Main
 
+function whereami {
 
+    # variable to show user history 
+    user=$(lastb)
 
+    echo "last login $user"
+}
+
+# Resources
 # End
