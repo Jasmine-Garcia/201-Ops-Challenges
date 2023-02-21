@@ -7,14 +7,14 @@
 
 # Main
 
-function history {
+function whoami {
 
     # variable to show user history 
     user=$(last)
 
     echo "most recent login times of $user"
 }
+whoami
 
-history
 # Resources: Computer Hope, Hostinger Tutorials
 # End
