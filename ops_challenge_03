@@ -13,8 +13,8 @@ function whoami {
     user=$(last)
 
     echo "most recent login times of $user"
-}
-whoami
+
+} whoami
 
 # Resources: Computer Hope, Hostinger Tutorials
 # End
