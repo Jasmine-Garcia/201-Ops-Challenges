@@ -12,8 +12,10 @@ function whereami {
     # variable to show user history 
     user=$(lastb)
 
-    echo "last login $user"
+    echo "login time $user"
 }
+
+whereami
 
 # Resources
 # End
