@@ -20,10 +20,9 @@ directory_array=("dir1.sh" "dir2.sh" "dir3.sh" "dir4.sh")
 
 # Reference the array variables to create a new .txt file in each directory:
 
-touch dir1/corgi.txt
-touch dir2/husky.txt
-touch dir3/labrador.txt
-touch dir4/poodle.txt
+# touch dir1/corgi.txt
+# touch dir2/husky.txt
+# touch dir3/labrador.txt
+# touch dir4/poodle.txt
 
 # End
-# Resources: 
